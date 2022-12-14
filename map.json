@@ -18,5 +18,20 @@
     "chromeId": "kimbiihomiiklblgkdllffbakadjgako",
     "firefoxId": "tanshasha88@gmail.com",
     "name": "Extension Sync"
+  },
+  {
+    "chromeId": "jldhpllghnbhlbpcmnajkpdmadaolakh",
+    "firefoxId": "support@todoist.com",
+    "name": "Todoist"
+  },
+  {
+    "chromeId": "pccckmaobkjjboncdfnnofkonhgpceea",
+    "firefoxId": "{92e6fe1c-6e1d-44e1-8bc6-d309e59406af}",
+    "name": "Hover Zoom+"
+  },
+  {
+    "chromeId": "kbmfpngjjgdllneeigpgjifpgocmfgmb",
+    "firefoxId": "jid1-xUfzOsOFlzSOXg@jetpack",
+    "name": "Reddit Enhancement Suite"
   }
 ]
