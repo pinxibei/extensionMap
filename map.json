@@ -33,5 +33,15 @@
     "chromeId": "kbmfpngjjgdllneeigpgjifpgocmfgmb",
     "firefoxId": "jid1-xUfzOsOFlzSOXg@jetpack",
     "name": "Reddit Enhancement Suite"
+  },
+  {
+    "chromeId": "kgjfgplpablkjnlkjmjdecgdpfankdle",
+    "firefoxId": "{bf855ead-d7c3-4c7b-9f88-9a7e75c0efdf}",
+    "name": "Zoom Scheduler"
+  },
+  {
+    "chromeId": "pbnndmlekkboofhnbonilimejonapojg",
+    "firefoxId": "{8fbc7259-8015-4172-9af1-20e1edfbbd3a}",
+    "name": "Midnight Lizard"
   }
 ]
