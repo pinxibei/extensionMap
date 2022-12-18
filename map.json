@@ -43,5 +43,25 @@
     "chromeId": "pbnndmlekkboofhnbonilimejonapojg",
     "firefoxId": "{8fbc7259-8015-4172-9af1-20e1edfbbd3a}",
     "name": "Midnight Lizard"
+  },
+  {
+    "chromeId": "lajondecmobodlejlcjllhojikagldgd",
+    "firefoxId": "zoom@stefanvd.net",
+    "name": "缩放"
+  },
+  {
+    "chromeId": "hgniockidojcaaolfcbbkaaakbjdebpe",
+    "firefoxId": "jid1-mxLXoM0pmaQU1Q@jetpack",
+    "name": "RightTasks for Gmail™"
+  },
+  {
+    "chromeId": "diankknpkndanachmlckaikddgcehkod",
+    "firefoxId": "{52198036-5173-4877-a8e8-62474781798d}",
+    "name": "滴答清单 - Todo & 任务提醒"
+  },
+  {
+    "chromeId": "cdockenadnadldjbbgcallicgledbeoc",
+    "firefoxId": "{50864413-c4c8-43b0-80b8-982c4a368ac9}",
+    "name": "VisBug"
   }
 ]
