@@ -63,5 +63,10 @@
     "chromeId": "cdockenadnadldjbbgcallicgledbeoc",
     "firefoxId": "{50864413-c4c8-43b0-80b8-982c4a368ac9}",
     "name": "VisBug"
+  },
+  {
+    "chromeId": "lgblkllcjgihfnlefhnnpppndbbjallh",
+    "firefoxId": "emailthis@emailthis.me",
+    "name": "Email This"
   }
 ]
