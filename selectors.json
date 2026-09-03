@@ -1,6 +1,6 @@
 {
   "watchPageParent": "#owner, #above-the-fold #top-row, ytd-video-owner-renderer, #columns #primary",
   "shortsPageParent": "ytd-reel-player-overlay-renderer #actions, #actions.ytd-reel-player-overlay-renderer",
-  "commentsSection": "#above-the-fold yt-formatted-string, ytd-comments-header-renderer, #comments-section, ytd-comments, #comments",
+  "commentsSection": "ytd-comments-header-renderer, #comments-section, ytd-comments, #comments",
   "videoTitle": "h1.title, ytd-video-primary-info-renderer h1, #title h1"
 }
